@@ -14,7 +14,7 @@ This project call http request connection from the restful API website ``https:/
 
 ### Request
 - Method : ``GET``
-- Endpoint : ``/v1/cat``
+- Endpoint : ``api/v1/cat``
 - Header :
   - accept : application/json
 
